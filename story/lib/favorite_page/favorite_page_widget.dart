@@ -125,18 +125,20 @@ class _FavoritePageWidgetState extends State<FavoritePageWidget> {
                                           letterSpacing: 0.0,
                                         ),
                                   ),
-                                  Padding(
-                                    padding: EdgeInsetsDirectional.fromSTEB(
-                                        0.0, 20.0, 0.0, 0.0),
-                                    child: FlutterFlowAdBanner(
-                                      width: MediaQuery.sizeOf(context).width *
-                                          3.2,
-                                      height: 50.0,
-                                      showsTestAd: false,
-                                      iOSAdUnitID:
-                                          'ca-app-pub-5902757634604822/8504841861',
-                                      androidAdUnitID:
-                                          'ca-app-pub-5902757634604822/1480268513',
+                                  Align(
+                                    alignment: AlignmentDirectional(0.0, 0.0),
+                                    child: Padding(
+                                      padding: EdgeInsetsDirectional.fromSTEB(
+                                          0.0, 20.0, 0.0, 0.0),
+                                      child: FlutterFlowAdBanner(
+                                        width: 320.0,
+                                        height: 50.0,
+                                        showsTestAd: false,
+                                        iOSAdUnitID:
+                                            'ca-app-pub-5902757634604822/8504841861',
+                                        androidAdUnitID:
+                                            'ca-app-pub-5902757634604822/1480268513',
+                                      ),
                                     ),
                                   ),
                                 ],

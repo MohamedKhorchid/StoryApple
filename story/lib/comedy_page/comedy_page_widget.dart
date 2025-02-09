@@ -92,18 +92,20 @@ class _ComedyPageWidgetState extends State<ComedyPageWidget> {
                                 mainAxisSize: MainAxisSize.max,
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
-                                  Padding(
-                                    padding: EdgeInsetsDirectional.fromSTEB(
-                                        0.0, 0.0, 0.0, 20.0),
-                                    child: FlutterFlowAdBanner(
-                                      width: MediaQuery.sizeOf(context).width *
-                                          3.2,
-                                      height: 50.0,
-                                      showsTestAd: false,
-                                      iOSAdUnitID:
-                                          'ca-app-pub-5902757634604822/5715829324',
-                                      androidAdUnitID:
-                                          'ca-app-pub-5902757634604822/7719176131',
+                                  Align(
+                                    alignment: AlignmentDirectional(0.0, 0.0),
+                                    child: Padding(
+                                      padding: EdgeInsetsDirectional.fromSTEB(
+                                          0.0, 0.0, 0.0, 20.0),
+                                      child: FlutterFlowAdBanner(
+                                        width: 320.0,
+                                        height: 50.0,
+                                        showsTestAd: false,
+                                        iOSAdUnitID:
+                                            'ca-app-pub-5902757634604822/5715829324',
+                                        androidAdUnitID:
+                                            'ca-app-pub-5902757634604822/7719176131',
+                                      ),
                                     ),
                                   ),
                                   Padding(
@@ -137,18 +139,20 @@ class _ComedyPageWidgetState extends State<ComedyPageWidget> {
                                           letterSpacing: 0.0,
                                         ),
                                   ),
-                                  Padding(
-                                    padding: EdgeInsetsDirectional.fromSTEB(
-                                        0.0, 20.0, 0.0, 0.0),
-                                    child: FlutterFlowAdBanner(
-                                      width: MediaQuery.sizeOf(context).width *
-                                          3.2,
-                                      height: 50.0,
-                                      showsTestAd: false,
-                                      iOSAdUnitID:
-                                          'ca-app-pub-5902757634604822/6807513162',
-                                      androidAdUnitID:
-                                          'ca-app-pub-5902757634604822/4756064897',
+                                  Align(
+                                    alignment: AlignmentDirectional(0.0, 0.0),
+                                    child: Padding(
+                                      padding: EdgeInsetsDirectional.fromSTEB(
+                                          0.0, 20.0, 0.0, 0.0),
+                                      child: FlutterFlowAdBanner(
+                                        width: 320.0,
+                                        height: 50.0,
+                                        showsTestAd: false,
+                                        iOSAdUnitID:
+                                            'ca-app-pub-5902757634604822/6807513162',
+                                        androidAdUnitID:
+                                            'ca-app-pub-5902757634604822/4756064897',
+                                      ),
                                     ),
                                   ),
                                 ],

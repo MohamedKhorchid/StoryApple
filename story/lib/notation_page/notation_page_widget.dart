@@ -193,37 +193,6 @@ class _NotationPageWidgetState extends State<NotationPageWidget> {
                             borderRadius: BorderRadius.circular(25.0),
                           ),
                         ),
-                        FFButtonWidget(
-                          onPressed: () async {
-                            await launchURL(
-                                'https://play.google.com/store/apps/details?id=com.mycompany.storyappplus');
-                          },
-                          text: FFLocalizations.of(context).getText(
-                            'eqsnh3qm' /* Noter sur Google Play */,
-                          ),
-                          icon: Icon(
-                            Icons.android,
-                            size: 15.0,
-                          ),
-                          options: FFButtonOptions(
-                            width: 250.0,
-                            height: 50.0,
-                            padding: EdgeInsets.all(8.0),
-                            iconPadding: EdgeInsetsDirectional.fromSTEB(
-                                0.0, 0.0, 0.0, 0.0),
-                            color: FlutterFlowTheme.of(context)
-                                .secondaryBackground,
-                            textStyle: FlutterFlowTheme.of(context)
-                                .titleSmall
-                                .override(
-                                  fontFamily: 'Inter Tight',
-                                  color: FlutterFlowTheme.of(context).tertiary,
-                                  letterSpacing: 0.0,
-                                ),
-                            elevation: 3.0,
-                            borderRadius: BorderRadius.circular(25.0),
-                          ),
-                        ),
                       ].divide(SizedBox(height: 16.0)),
                     ),
                   ),

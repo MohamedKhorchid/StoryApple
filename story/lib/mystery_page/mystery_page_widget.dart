@@ -93,18 +93,20 @@ class _MysteryPageWidgetState extends State<MysteryPageWidget> {
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
-                                  Padding(
-                                    padding: EdgeInsetsDirectional.fromSTEB(
-                                        0.0, 0.0, 0.0, 20.0),
-                                    child: FlutterFlowAdBanner(
-                                      width: MediaQuery.sizeOf(context).width *
-                                          3.2,
-                                      height: 50.0,
-                                      showsTestAd: false,
-                                      iOSAdUnitID:
-                                          'ca-app-pub-5902757634604822/9585989243',
-                                      androidAdUnitID:
-                                          'ca-app-pub-5902757634604822/5981516652',
+                                  Align(
+                                    alignment: AlignmentDirectional(0.0, 0.0),
+                                    child: Padding(
+                                      padding: EdgeInsetsDirectional.fromSTEB(
+                                          0.0, 0.0, 0.0, 20.0),
+                                      child: FlutterFlowAdBanner(
+                                        width: 320.0,
+                                        height: 50.0,
+                                        showsTestAd: false,
+                                        iOSAdUnitID:
+                                            'ca-app-pub-5902757634604822/9585989243',
+                                        androidAdUnitID:
+                                            'ca-app-pub-5902757634604822/5981516652',
+                                      ),
                                     ),
                                   ),
                                   Padding(
@@ -138,18 +140,20 @@ class _MysteryPageWidgetState extends State<MysteryPageWidget> {
                                           letterSpacing: 0.0,
                                         ),
                                   ),
-                                  Padding(
-                                    padding: EdgeInsetsDirectional.fromSTEB(
-                                        0.0, 20.0, 0.0, 0.0),
-                                    child: FlutterFlowAdBanner(
-                                      width: MediaQuery.sizeOf(context).width *
-                                          3.2,
-                                      height: 50.0,
-                                      showsTestAd: false,
-                                      iOSAdUnitID:
-                                          'ca-app-pub-5902757634604822/8272907574',
-                                      androidAdUnitID:
-                                          'ca-app-pub-5902757634604822/9091967550',
+                                  Align(
+                                    alignment: AlignmentDirectional(0.0, 0.0),
+                                    child: Padding(
+                                      padding: EdgeInsetsDirectional.fromSTEB(
+                                          0.0, 20.0, 0.0, 0.0),
+                                      child: FlutterFlowAdBanner(
+                                        width: 320.0,
+                                        height: 50.0,
+                                        showsTestAd: false,
+                                        iOSAdUnitID:
+                                            'ca-app-pub-5902757634604822/8272907574',
+                                        androidAdUnitID:
+                                            'ca-app-pub-5902757634604822/9091967550',
+                                      ),
                                     ),
                                   ),
                                 ],

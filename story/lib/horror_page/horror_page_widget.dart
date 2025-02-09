@@ -93,18 +93,20 @@ class _HorrorPageWidgetState extends State<HorrorPageWidget> {
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
-                                  Padding(
-                                    padding: EdgeInsetsDirectional.fromSTEB(
-                                        0.0, 0.0, 0.0, 20.0),
-                                    child: FlutterFlowAdBanner(
-                                      width: MediaQuery.sizeOf(context).width *
-                                          3.2,
-                                      height: 50.0,
-                                      showsTestAd: false,
-                                      iOSAdUnitID:
-                                          'ca-app-pub-5902757634604822/8962903215',
-                                      androidAdUnitID:
-                                          'ca-app-pub-5902757634604822/4285291606',
+                                  Align(
+                                    alignment: AlignmentDirectional(0.0, 0.0),
+                                    child: Padding(
+                                      padding: EdgeInsetsDirectional.fromSTEB(
+                                          0.0, 0.0, 0.0, 20.0),
+                                      child: FlutterFlowAdBanner(
+                                        width: 320.0,
+                                        height: 50.0,
+                                        showsTestAd: false,
+                                        iOSAdUnitID:
+                                            'ca-app-pub-5902757634604822/8962903215',
+                                        androidAdUnitID:
+                                            'ca-app-pub-5902757634604822/4285291606',
+                                      ),
                                     ),
                                   ),
                                   Padding(
@@ -138,18 +140,20 @@ class _HorrorPageWidgetState extends State<HorrorPageWidget> {
                                           letterSpacing: 0.0,
                                         ),
                                   ),
-                                  Padding(
-                                    padding: EdgeInsetsDirectional.fromSTEB(
-                                        0.0, 20.0, 0.0, 0.0),
-                                    child: FlutterFlowAdBanner(
-                                      width: MediaQuery.sizeOf(context).width *
-                                          3.2,
-                                      height: 50.0,
-                                      showsTestAd: false,
-                                      iOSAdUnitID:
-                                          'ca-app-pub-5902757634604822/4333662565',
-                                      androidAdUnitID:
-                                          'ca-app-pub-5902757634604822/6506166811',
+                                  Align(
+                                    alignment: AlignmentDirectional(0.0, 0.0),
+                                    child: Padding(
+                                      padding: EdgeInsetsDirectional.fromSTEB(
+                                          0.0, 20.0, 0.0, 0.0),
+                                      child: FlutterFlowAdBanner(
+                                        width: 320.0,
+                                        height: 50.0,
+                                        showsTestAd: false,
+                                        iOSAdUnitID:
+                                            'ca-app-pub-5902757634604822/4333662565',
+                                        androidAdUnitID:
+                                            'ca-app-pub-5902757634604822/6506166811',
+                                      ),
                                     ),
                                   ),
                                 ],

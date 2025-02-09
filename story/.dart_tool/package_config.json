@@ -812,10 +812,10 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-02-04T16:12:55.998757Z",
+  "generated": "2025-02-09T15:08:33.494181Z",
   "generator": "pub",
-  "generatorVersion": "3.6.0",
+  "generatorVersion": "3.6.1",
   "flutterRoot": "file:///C:/Users/Chick/Downloads/flutter_windows_3.27.0-stable/flutter",
-  "flutterVersion": "3.27.0",
+  "flutterVersion": "3.27.3",
   "pubCache": "file:///C:/Users/Chick/AppData/Local/Pub/Cache"
 }

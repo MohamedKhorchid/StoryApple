@@ -196,14 +196,17 @@ class _ReadingPageWidgetState extends State<ReadingPageWidget> {
                           shrinkWrap: true,
                           scrollDirection: Axis.vertical,
                           children: [
-                            FlutterFlowAdBanner(
-                              width: MediaQuery.sizeOf(context).width * 3.2,
-                              height: 50.0,
-                              showsTestAd: false,
-                              iOSAdUnitID:
-                                  'ca-app-pub-5902757634604822/4961150854',
-                              androidAdUnitID:
-                                  'ca-app-pub-5902757634604822/1405049226',
+                            Align(
+                              alignment: AlignmentDirectional(0.0, 0.0),
+                              child: FlutterFlowAdBanner(
+                                width: 320.0,
+                                height: 50.0,
+                                showsTestAd: false,
+                                iOSAdUnitID:
+                                    'ca-app-pub-5902757634604822/4961150854',
+                                androidAdUnitID:
+                                    'ca-app-pub-5902757634604822/1405049226',
+                              ),
                             ),
                             Align(
                               alignment: AlignmentDirectional(0.0, 0.0),
@@ -224,14 +227,17 @@ class _ReadingPageWidgetState extends State<ReadingPageWidget> {
                                     ),
                               ),
                             ),
-                            FlutterFlowAdBanner(
-                              width: MediaQuery.sizeOf(context).width * 3.2,
-                              height: 50.0,
-                              showsTestAd: false,
-                              iOSAdUnitID:
-                                  'ca-app-pub-5902757634604822/2275277769',
-                              androidAdUnitID:
-                                  'ca-app-pub-5902757634604822/3634554911',
+                            Align(
+                              alignment: AlignmentDirectional(0.0, 0.0),
+                              child: FlutterFlowAdBanner(
+                                width: 320.0,
+                                height: 50.0,
+                                showsTestAd: false,
+                                iOSAdUnitID:
+                                    'ca-app-pub-5902757634604822/2275277769',
+                                androidAdUnitID:
+                                    'ca-app-pub-5902757634604822/3634554911',
+                              ),
                             ),
                             Row(
                               mainAxisSize: MainAxisSize.max,

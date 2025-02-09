@@ -96,19 +96,20 @@ class _FantasyPageWidgetState extends State<FantasyPageWidget> {
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
-                                    Padding(
-                                      padding: EdgeInsetsDirectional.fromSTEB(
-                                          0.0, 0.0, 0.0, 20.0),
-                                      child: FlutterFlowAdBanner(
-                                        width:
-                                            MediaQuery.sizeOf(context).width *
-                                                3.2,
-                                        height: 50.0,
-                                        showsTestAd: false,
-                                        iOSAdUnitID:
-                                            'ca-app-pub-5902757634604822/7470961798',
-                                        androidAdUnitID:
-                                            'ca-app-pub-5902757634604822/5193085147',
+                                    Align(
+                                      alignment: AlignmentDirectional(0.0, 0.0),
+                                      child: Padding(
+                                        padding: EdgeInsetsDirectional.fromSTEB(
+                                            0.0, 0.0, 0.0, 20.0),
+                                        child: FlutterFlowAdBanner(
+                                          width: 320.0,
+                                          height: 50.0,
+                                          showsTestAd: false,
+                                          iOSAdUnitID:
+                                              'ca-app-pub-5902757634604822/7470961798',
+                                          androidAdUnitID:
+                                              'ca-app-pub-5902757634604822/5193085147',
+                                        ),
                                       ),
                                     ),
                                     Padding(
@@ -143,19 +144,20 @@ class _FantasyPageWidgetState extends State<FantasyPageWidget> {
                                             letterSpacing: 0.0,
                                           ),
                                     ),
-                                    Padding(
-                                      padding: EdgeInsetsDirectional.fromSTEB(
-                                          0.0, 20.0, 0.0, 0.0),
-                                      child: FlutterFlowAdBanner(
-                                        width:
-                                            MediaQuery.sizeOf(context).width *
-                                                3.2,
-                                        height: 50.0,
-                                        showsTestAd: false,
-                                        iOSAdUnitID:
-                                            'ca-app-pub-5902757634604822/7191760192',
-                                        androidAdUnitID:
-                                            'ca-app-pub-5902757634604822/3779931125',
+                                    Align(
+                                      alignment: AlignmentDirectional(0.0, 0.0),
+                                      child: Padding(
+                                        padding: EdgeInsetsDirectional.fromSTEB(
+                                            0.0, 20.0, 0.0, 0.0),
+                                        child: FlutterFlowAdBanner(
+                                          width: 320.0,
+                                          height: 50.0,
+                                          showsTestAd: false,
+                                          iOSAdUnitID:
+                                              'ca-app-pub-5902757634604822/7191760192',
+                                          androidAdUnitID:
+                                              'ca-app-pub-5902757634604822/3779931125',
+                                        ),
                                       ),
                                     ),
                                   ],

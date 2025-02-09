@@ -208,13 +208,17 @@ class _StoryPageWidgetState extends State<StoryPageWidget> {
                                 fontWeight: FontWeight.bold,
                               ),
                         ),
-                        FlutterFlowAdBanner(
-                          width: MediaQuery.sizeOf(context).width * 3.2,
-                          height: 50.0,
-                          showsTestAd: false,
-                          iOSAdUnitID: 'ca-app-pub-5902757634604822/7028910995',
-                          androidAdUnitID:
-                              'ca-app-pub-5902757634604822/2784507674',
+                        Align(
+                          alignment: AlignmentDirectional(0.0, 0.0),
+                          child: FlutterFlowAdBanner(
+                            width: 320.0,
+                            height: 50.0,
+                            showsTestAd: false,
+                            iOSAdUnitID:
+                                'ca-app-pub-5902757634604822/7028910995',
+                            androidAdUnitID:
+                                'ca-app-pub-5902757634604822/2784507674',
+                          ),
                         ),
                         Row(
                           mainAxisSize: MainAxisSize.max,
@@ -304,13 +308,16 @@ class _StoryPageWidgetState extends State<StoryPageWidget> {
                                   fontWeight: FontWeight.w600,
                                 ),
                       ),
-                      FlutterFlowAdBanner(
-                        width: MediaQuery.sizeOf(context).width * 3.2,
-                        height: 50.0,
-                        showsTestAd: false,
-                        iOSAdUnitID: 'ca-app-pub-5902757634604822/2131005206',
-                        androidAdUnitID:
-                            'ca-app-pub-5902757634604822/9032257809',
+                      Align(
+                        alignment: AlignmentDirectional(0.0, 0.0),
+                        child: FlutterFlowAdBanner(
+                          width: 320.0,
+                          height: 50.0,
+                          showsTestAd: false,
+                          iOSAdUnitID: 'ca-app-pub-5902757634604822/2131005206',
+                          androidAdUnitID:
+                              'ca-app-pub-5902757634604822/9032257809',
+                        ),
                       ),
                       StreamBuilder<List<ChaptersRecord>>(
                         stream: queryChaptersRecord(
