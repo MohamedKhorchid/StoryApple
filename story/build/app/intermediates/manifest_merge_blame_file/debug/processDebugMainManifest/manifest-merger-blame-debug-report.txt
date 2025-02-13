@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.mycompany.storyappplus"
-4    android:versionCode="21"
-5    android:versionName="21.0.0" >
+4    android:versionCode="23"
+5    android:versionName="23.0.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
@@ -15,26 +15,26 @@
 14-->C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\android\app\src\main\AndroidManifest.xml:4:5-66
 14-->C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\android\app\src\main\AndroidManifest.xml:4:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:26:5-79
-15-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:26:22-76
+15-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:26:5-79
+15-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:26:22-76
 16    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-16-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:26:5-79
-16-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:26:22-76
+16-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:26:5-79
+16-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:26:22-76
 17    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
-17-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:27:5-82
-17-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:27:22-79
+17-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:27:5-82
+17-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:27:22-79
 18    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
-18-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:28:5-88
-18-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:28:22-85
+18-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:28:5-88
+18-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:28:22-85
 19    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_TOPICS" /> <!-- Android package visibility setting -->
-19-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:29:5-83
-19-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:29:22-80
+19-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:29:5-83
+19-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:29:22-80
 20    <queries>
-20-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:35:5-51:15
+20-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:35:5-51:15
 21
 22        <!-- For browser content -->
 23        <intent>
-23-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:38:9-44:18
+23-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:38:9-44:18
 24            <action android:name="android.intent.action.VIEW" />
 24-->C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\android\app\src\main\AndroidManifest.xml:45:17-69
 24-->C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\android\app\src\main\AndroidManifest.xml:45:25-66
@@ -50,39 +50,39 @@
 30        <!-- End of browser content -->
 31        <!-- For CustomTabsService -->
 32        <intent>
-32-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:47:9-49:18
+32-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:47:9-49:18
 33            <action android:name="android.support.customtabs.action.CustomTabsService" />
-33-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:48:13-90
-33-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:48:21-87
+33-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:48:13-90
+33-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:48:21-87
 34        </intent>
 35        <!-- End of CustomTabsService -->
 36    </queries>
 37
 38    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
-38-->[com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Chick\.gradle\caches\transforms-4\110e0b9a07034b4bf1b4ba0cf1c490ee\transformed\jetified-recaptcha-18.5.1\AndroidManifest.xml:9:5-98
-38-->[com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Chick\.gradle\caches\transforms-4\110e0b9a07034b4bf1b4ba0cf1c490ee\transformed\jetified-recaptcha-18.5.1\AndroidManifest.xml:9:22-95
+38-->[com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Chick\.gradle\caches\transforms-4\0b8d904414f4f28f352bf303bab23882\transformed\jetified-recaptcha-18.5.1\AndroidManifest.xml:9:5-98
+38-->[com.google.android.recaptcha:recaptcha:18.5.1] C:\Users\Chick\.gradle\caches\transforms-4\0b8d904414f4f28f352bf303bab23882\transformed\jetified-recaptcha-18.5.1\AndroidManifest.xml:9:22-95
 39    <uses-permission android:name="android.permission.WAKE_LOCK" />
-39-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
-39-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:22-65
+39-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+39-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:22-65
 40    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-40-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
-40-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:22-74
+40-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+40-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:22-74
 41
 42    <permission
-42-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\fd2b89822cf4ea012c319ed8d7a29b6d\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+42-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\8644f1464e67399aede6c2adde3cf986\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 43        android:name="com.mycompany.storyappplus.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-43-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\fd2b89822cf4ea012c319ed8d7a29b6d\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+43-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\8644f1464e67399aede6c2adde3cf986\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
 44        android:protectionLevel="signature" />
-44-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\fd2b89822cf4ea012c319ed8d7a29b6d\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+44-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\8644f1464e67399aede6c2adde3cf986\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
 45
 46    <uses-permission android:name="com.mycompany.storyappplus.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-46-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\fd2b89822cf4ea012c319ed8d7a29b6d\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
-46-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\fd2b89822cf4ea012c319ed8d7a29b6d\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+46-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\8644f1464e67399aede6c2adde3cf986\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+46-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\8644f1464e67399aede6c2adde3cf986\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 47
 48    <application
 48-->C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\android\app\src\main\AndroidManifest.xml:7:5-63:19
 49        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-49-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\fd2b89822cf4ea012c319ed8d7a29b6d\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+49-->[androidx.core:core:1.13.1] C:\Users\Chick\.gradle\caches\transforms-4\8644f1464e67399aede6c2adde3cf986\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 50        android:debuggable="true"
 51        android:extractNativeLibs="false"
 52        android:icon="@mipmap/launcher_icon"
@@ -197,9 +197,9 @@
 118            android:name="com.google.firebase.components.ComponentDiscoveryService"
 118-->[:cloud_firestore] C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\build\cloud_firestore\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:8:18-89
 119            android:directBootAware="true"
-119-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\f31132796dd2f72b8f965f539b4757bf\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+119-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\5a982d76be0d0ff2c872379cd6db2185\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:32:13-43
 120            android:exported="false" >
-120-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\58c99f91658f4a32df7bcdda696202ea\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:13:13-37
+120-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\7019874999b729fe351c89aa07248516\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:13:13-37
 121            <meta-data
 121-->[:cloud_firestore] C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\build\cloud_firestore\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:9:13-11:85
 122                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
@@ -225,89 +225,89 @@
 132                android:value="com.google.firebase.components.ComponentRegistrar" />
 132-->[:firebase_core] C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\build\firebase_core\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:11:17-82
 133            <meta-data
-133-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\58c99f91658f4a32df7bcdda696202ea\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:14:13-16:85
+133-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\7019874999b729fe351c89aa07248516\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:14:13-16:85
 134                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfKtxRegistrar"
-134-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\58c99f91658f4a32df7bcdda696202ea\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:15:17-112
+134-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\7019874999b729fe351c89aa07248516\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:15:17-112
 135                android:value="com.google.firebase.components.ComponentRegistrar" />
-135-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\58c99f91658f4a32df7bcdda696202ea\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:16:17-82
+135-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\7019874999b729fe351c89aa07248516\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:16:17-82
 136            <meta-data
-136-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\58c99f91658f4a32df7bcdda696202ea\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:17:13-19:85
+136-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\7019874999b729fe351c89aa07248516\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:17:13-19:85
 137                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
-137-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\58c99f91658f4a32df7bcdda696202ea\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:18:17-109
+137-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\7019874999b729fe351c89aa07248516\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:18:17-109
 138                android:value="com.google.firebase.components.ComponentRegistrar" />
-138-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\58c99f91658f4a32df7bcdda696202ea\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:19:17-82
+138-->[com.google.firebase:firebase-perf:21.0.2] C:\Users\Chick\.gradle\caches\transforms-4\7019874999b729fe351c89aa07248516\transformed\jetified-firebase-perf-21.0.2\AndroidManifest.xml:19:17-82
 139            <meta-data
-139-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\3a97cbf7ad99215709136a4d1507d161\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:29:13-31:85
+139-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\ced7e25bd9e19154cfdac241e3b65959\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:29:13-31:85
 140                android:name="com.google.firebase.components:com.google.firebase.sessions.FirebaseSessionsRegistrar"
-140-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\3a97cbf7ad99215709136a4d1507d161\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:30:17-117
+140-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\ced7e25bd9e19154cfdac241e3b65959\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:30:17-117
 141                android:value="com.google.firebase.components.ComponentRegistrar" />
-141-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\3a97cbf7ad99215709136a4d1507d161\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:31:17-82
+141-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\ced7e25bd9e19154cfdac241e3b65959\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:31:17-82
 142            <meta-data
-142-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:69:13-71:85
+142-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:69:13-71:85
 143                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-143-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:70:17-109
+143-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:70:17-109
 144                android:value="com.google.firebase.components.ComponentRegistrar" />
-144-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:71:17-82
+144-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:71:17-82
 145            <meta-data
-145-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\5eb3a0fcf8bfb8c3cae87fb515238d9d\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:17:13-19:85
+145-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\b370f72ae14f3b2b8875e09f484d5882\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:17:13-19:85
 146                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
-146-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\5eb3a0fcf8bfb8c3cae87fb515238d9d\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:18:17-122
+146-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\b370f72ae14f3b2b8875e09f484d5882\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:18:17-122
 147                android:value="com.google.firebase.components.ComponentRegistrar" />
-147-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\5eb3a0fcf8bfb8c3cae87fb515238d9d\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:19:17-82
+147-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\b370f72ae14f3b2b8875e09f484d5882\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:19:17-82
 148            <meta-data
-148-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\5eb3a0fcf8bfb8c3cae87fb515238d9d\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:20:13-22:85
+148-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\b370f72ae14f3b2b8875e09f484d5882\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:20:13-22:85
 149                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-149-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\5eb3a0fcf8bfb8c3cae87fb515238d9d\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:21:17-111
+149-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\b370f72ae14f3b2b8875e09f484d5882\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:21:17-111
 150                android:value="com.google.firebase.components.ComponentRegistrar" />
-150-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\5eb3a0fcf8bfb8c3cae87fb515238d9d\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:22:17-82
+150-->[com.google.firebase:firebase-firestore:25.1.1] C:\Users\Chick\.gradle\caches\transforms-4\b370f72ae14f3b2b8875e09f484d5882\transformed\jetified-firebase-firestore-25.1.1\AndroidManifest.xml:22:17-82
 151            <meta-data
-151-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\ee9aaac96630d283ea2691907c16a0d0\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:29:13-31:85
+151-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\2679da1ec971207aef57fdb404171a5a\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:29:13-31:85
 152                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.FirebaseRemoteConfigKtxRegistrar"
-152-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\ee9aaac96630d283ea2691907c16a0d0\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:30:17-128
+152-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\2679da1ec971207aef57fdb404171a5a\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:30:17-128
 153                android:value="com.google.firebase.components.ComponentRegistrar" />
-153-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\ee9aaac96630d283ea2691907c16a0d0\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:31:17-82
+153-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\2679da1ec971207aef57fdb404171a5a\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:31:17-82
 154            <meta-data
-154-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\ee9aaac96630d283ea2691907c16a0d0\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:32:13-34:85
+154-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\2679da1ec971207aef57fdb404171a5a\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:32:13-34:85
 155                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
-155-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\ee9aaac96630d283ea2691907c16a0d0\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:33:17-117
+155-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\2679da1ec971207aef57fdb404171a5a\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:33:17-117
 156                android:value="com.google.firebase.components.ComponentRegistrar" />
-156-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\ee9aaac96630d283ea2691907c16a0d0\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:34:17-82
+156-->[com.google.firebase:firebase-config:22.0.1] C:\Users\Chick\.gradle\caches\transforms-4\2679da1ec971207aef57fdb404171a5a\transformed\jetified-firebase-config-22.0.1\AndroidManifest.xml:34:17-82
 157            <meta-data
-157-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\76897626a25b8b8c301a190d3371051b\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+157-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\bfcaa57eca22518944b7b0bcdbd508ce\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
 158                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
-158-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\76897626a25b8b8c301a190d3371051b\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+158-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\bfcaa57eca22518944b7b0bcdbd508ce\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
 159                android:value="com.google.firebase.components.ComponentRegistrar" />
-159-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\76897626a25b8b8c301a190d3371051b\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+159-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\bfcaa57eca22518944b7b0bcdbd508ce\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
 160            <meta-data
-160-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\76897626a25b8b8c301a190d3371051b\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+160-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\bfcaa57eca22518944b7b0bcdbd508ce\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
 161                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-161-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\76897626a25b8b8c301a190d3371051b\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+161-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\bfcaa57eca22518944b7b0bcdbd508ce\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
 162                android:value="com.google.firebase.components.ComponentRegistrar" />
-162-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\76897626a25b8b8c301a190d3371051b\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+162-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Chick\.gradle\caches\transforms-4\bfcaa57eca22518944b7b0bcdbd508ce\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
 163            <meta-data
-163-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\21f5e0aa356d54b781d3e9cd22b123cd\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+163-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\6e2b9ed29b55e1bb280be477d9cb841f\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
 164                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
-164-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\21f5e0aa356d54b781d3e9cd22b123cd\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+164-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\6e2b9ed29b55e1bb280be477d9cb841f\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
 165                android:value="com.google.firebase.components.ComponentRegistrar" />
-165-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\21f5e0aa356d54b781d3e9cd22b123cd\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+165-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\6e2b9ed29b55e1bb280be477d9cb841f\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
 166            <meta-data
-166-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\Chick\.gradle\caches\transforms-4\3115761e44538ee4c66957560107c1fe\transformed\jetified-firebase-datatransport-18.1.8\AndroidManifest.xml:27:13-29:85
+166-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\Chick\.gradle\caches\transforms-4\23cd989f4dc7d29684b331946c02edac\transformed\jetified-firebase-datatransport-18.1.8\AndroidManifest.xml:27:13-29:85
 167                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-167-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\Chick\.gradle\caches\transforms-4\3115761e44538ee4c66957560107c1fe\transformed\jetified-firebase-datatransport-18.1.8\AndroidManifest.xml:28:17-115
+167-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\Chick\.gradle\caches\transforms-4\23cd989f4dc7d29684b331946c02edac\transformed\jetified-firebase-datatransport-18.1.8\AndroidManifest.xml:28:17-115
 168                android:value="com.google.firebase.components.ComponentRegistrar" />
-168-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\Chick\.gradle\caches\transforms-4\3115761e44538ee4c66957560107c1fe\transformed\jetified-firebase-datatransport-18.1.8\AndroidManifest.xml:29:17-82
+168-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\Chick\.gradle\caches\transforms-4\23cd989f4dc7d29684b331946c02edac\transformed\jetified-firebase-datatransport-18.1.8\AndroidManifest.xml:29:17-82
 169            <meta-data
-169-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\f31132796dd2f72b8f965f539b4757bf\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+169-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\5a982d76be0d0ff2c872379cd6db2185\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
 170                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-170-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\f31132796dd2f72b8f965f539b4757bf\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+170-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\5a982d76be0d0ff2c872379cd6db2185\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:36:17-109
 171                android:value="com.google.firebase.components.ComponentRegistrar" />
-171-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\f31132796dd2f72b8f965f539b4757bf\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+171-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\5a982d76be0d0ff2c872379cd6db2185\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:37:17-82
 172            <meta-data
-172-->[com.google.firebase:firebase-abt:21.1.1] C:\Users\Chick\.gradle\caches\transforms-4\200588f6c5f11ea84ab35b432f747c3f\transformed\jetified-firebase-abt-21.1.1\AndroidManifest.xml:12:13-14:85
+172-->[com.google.firebase:firebase-abt:21.1.1] C:\Users\Chick\.gradle\caches\transforms-4\a5a3907da85920bc3ac8dad289f8928a\transformed\jetified-firebase-abt-21.1.1\AndroidManifest.xml:12:13-14:85
 173                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
-173-->[com.google.firebase:firebase-abt:21.1.1] C:\Users\Chick\.gradle\caches\transforms-4\200588f6c5f11ea84ab35b432f747c3f\transformed\jetified-firebase-abt-21.1.1\AndroidManifest.xml:13:17-109
+173-->[com.google.firebase:firebase-abt:21.1.1] C:\Users\Chick\.gradle\caches\transforms-4\a5a3907da85920bc3ac8dad289f8928a\transformed\jetified-firebase-abt-21.1.1\AndroidManifest.xml:13:17-109
 174                android:value="com.google.firebase.components.ComponentRegistrar" />
-174-->[com.google.firebase:firebase-abt:21.1.1] C:\Users\Chick\.gradle\caches\transforms-4\200588f6c5f11ea84ab35b432f747c3f\transformed\jetified-firebase-abt-21.1.1\AndroidManifest.xml:14:17-82
+174-->[com.google.firebase:firebase-abt:21.1.1] C:\Users\Chick\.gradle\caches\transforms-4\a5a3907da85920bc3ac8dad289f8928a\transformed\jetified-firebase-abt-21.1.1\AndroidManifest.xml:14:17-82
 175        </service>
 176
 177        <meta-data
@@ -327,28 +327,28 @@
 184-->[:url_launcher_android] C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\build\url_launcher_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:11:13-71
 185
 186        <service
-186-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\3a97cbf7ad99215709136a4d1507d161\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:22:9-25:40
+186-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\ced7e25bd9e19154cfdac241e3b65959\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:22:9-25:40
 187            android:name="com.google.firebase.sessions.SessionLifecycleService"
-187-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\3a97cbf7ad99215709136a4d1507d161\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:23:13-80
+187-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\ced7e25bd9e19154cfdac241e3b65959\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:23:13-80
 188            android:enabled="true"
-188-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\3a97cbf7ad99215709136a4d1507d161\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:24:13-35
+188-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\ced7e25bd9e19154cfdac241e3b65959\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:24:13-35
 189            android:exported="false" />
-189-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\3a97cbf7ad99215709136a4d1507d161\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:25:13-37
+189-->[com.google.firebase:firebase-sessions:2.0.0] C:\Users\Chick\.gradle\caches\transforms-4\ced7e25bd9e19154cfdac241e3b65959\transformed\jetified-firebase-sessions-2.0.0\AndroidManifest.xml:25:13-37
 190
 191        <activity
-191-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:29:9-46:20
+191-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:29:9-46:20
 192            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-192-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:30:13-80
+192-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:30:13-80
 193            android:excludeFromRecents="true"
-193-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:31:13-46
+193-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:31:13-46
 194            android:exported="true"
-194-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:32:13-36
+194-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:32:13-36
 195            android:launchMode="singleTask"
-195-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:33:13-44
+195-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:33:13-44
 196            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-196-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:34:13-72
+196-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:34:13-72
 197            <intent-filter>
-197-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:35:13-45:29
+197-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:35:13-45:29
 198                <action android:name="android.intent.action.VIEW" />
 198-->C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\android\app\src\main\AndroidManifest.xml:45:17-69
 198-->C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\android\app\src\main\AndroidManifest.xml:45:25-66
@@ -370,19 +370,19 @@
 207            </intent-filter>
 208        </activity>
 209        <activity
-209-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:47:9-64:20
+209-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:47:9-64:20
 210            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-210-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:48:13-79
+210-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:48:13-79
 211            android:excludeFromRecents="true"
-211-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:49:13-46
+211-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:49:13-46
 212            android:exported="true"
-212-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:50:13-36
+212-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:50:13-36
 213            android:launchMode="singleTask"
-213-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:51:13-44
+213-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:51:13-44
 214            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-214-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:52:13-72
+214-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:52:13-72
 215            <intent-filter>
-215-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\d25d70b8757577b4278298d6591fca79\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:53:13-63:29
+215-->[com.google.firebase:firebase-auth:23.1.0] C:\Users\Chick\.gradle\caches\transforms-4\b10f0e627012e2bdd1b5d3798d8a9611\transformed\jetified-firebase-auth-23.1.0\AndroidManifest.xml:53:13-63:29
 216                <action android:name="android.intent.action.VIEW" />
 216-->C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\android\app\src\main\AndroidManifest.xml:45:17-69
 216-->C:\Users\Chick\OneDrive\Applications\Apple\StoryApple\story\android\app\src\main\AndroidManifest.xml:45:25-66
@@ -405,465 +405,465 @@
 226        </activity>
 227
 228        <service
-228-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\94482268a84d54b5a1d6a8386c316400\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+228-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\5965dd3776434ec10520f7014d57471c\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
 229            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-229-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\94482268a84d54b5a1d6a8386c316400\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+229-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\5965dd3776434ec10520f7014d57471c\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
 230            android:exported="false" >
-230-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\94482268a84d54b5a1d6a8386c316400\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+230-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\5965dd3776434ec10520f7014d57471c\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
 231            <meta-data
-231-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\94482268a84d54b5a1d6a8386c316400\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+231-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\5965dd3776434ec10520f7014d57471c\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
 232                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-232-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\94482268a84d54b5a1d6a8386c316400\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+232-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\5965dd3776434ec10520f7014d57471c\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
 233                android:value="cct" />
-233-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\94482268a84d54b5a1d6a8386c316400\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+233-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\5965dd3776434ec10520f7014d57471c\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
 234        </service>
 235        <service
-235-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+235-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
 236            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
-236-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+236-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
 237            android:enabled="true"
-237-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+237-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
 238            android:exported="false" >
-238-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+238-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
 239            <meta-data
-239-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+239-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
 240                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
-240-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+240-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
 241                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
-241-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+241-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
 242        </service>
 243
 244        <activity
-244-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+244-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
 245            android:name="androidx.credentials.playservices.HiddenActivity"
-245-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+245-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
 246            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
-246-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+246-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
 247            android:enabled="true"
-247-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+247-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
 248            android:exported="false"
-248-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+248-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
 249            android:fitsSystemWindows="true"
-249-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+249-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
 250            android:theme="@style/Theme.Hidden" >
-250-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\406e5e218fcab380eee8c6539e3a831a\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+250-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Chick\.gradle\caches\transforms-4\cf79a89870ec5162b5c6cf212e0ad7a1\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
 251        </activity>
 252
 253        <uses-library
-253-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\02f0b280f7a5f5430ea8b9b3a952b05a\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+253-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\93d9969f6693f7d2eac01ea5f032b7e7\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
 254            android:name="androidx.window.extensions"
-254-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\02f0b280f7a5f5430ea8b9b3a952b05a\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+254-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\93d9969f6693f7d2eac01ea5f032b7e7\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
 255            android:required="false" />
-255-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\02f0b280f7a5f5430ea8b9b3a952b05a\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+255-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\93d9969f6693f7d2eac01ea5f032b7e7\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
 256        <uses-library
-256-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\02f0b280f7a5f5430ea8b9b3a952b05a\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+256-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\93d9969f6693f7d2eac01ea5f032b7e7\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
 257            android:name="androidx.window.sidecar"
-257-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\02f0b280f7a5f5430ea8b9b3a952b05a\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+257-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\93d9969f6693f7d2eac01ea5f032b7e7\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
 258            android:required="false" />
-258-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\02f0b280f7a5f5430ea8b9b3a952b05a\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+258-->[androidx.window:window:1.2.0] C:\Users\Chick\.gradle\caches\transforms-4\93d9969f6693f7d2eac01ea5f032b7e7\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
 259
 260        <activity
-260-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\eed11671b689f412db1dc494f9e3bcff\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:23:9-27:75
+260-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\c314898abc33d4b35fb0483e914cb28e\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:23:9-27:75
 261            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-261-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\eed11671b689f412db1dc494f9e3bcff\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:24:13-93
+261-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\c314898abc33d4b35fb0483e914cb28e\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:24:13-93
 262            android:excludeFromRecents="true"
-262-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\eed11671b689f412db1dc494f9e3bcff\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:25:13-46
+262-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\c314898abc33d4b35fb0483e914cb28e\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:25:13-46
 263            android:exported="false"
-263-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\eed11671b689f412db1dc494f9e3bcff\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:26:13-37
+263-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\c314898abc33d4b35fb0483e914cb28e\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:26:13-37
 264            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-264-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\eed11671b689f412db1dc494f9e3bcff\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:27:13-72
+264-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\c314898abc33d4b35fb0483e914cb28e\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:27:13-72
 265        <!--
 266            Service handling Google Sign-In user revocation. For apps that do not integrate with
 267            Google Sign-In, this service will never be started.
 268        -->
 269        <service
-269-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\eed11671b689f412db1dc494f9e3bcff\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:33:9-37:51
+269-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\c314898abc33d4b35fb0483e914cb28e\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:33:9-37:51
 270            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-270-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\eed11671b689f412db1dc494f9e3bcff\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:34:13-89
+270-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\c314898abc33d4b35fb0483e914cb28e\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:34:13-89
 271            android:exported="true"
-271-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\eed11671b689f412db1dc494f9e3bcff\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:35:13-36
+271-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\c314898abc33d4b35fb0483e914cb28e\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:35:13-36
 272            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-272-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\eed11671b689f412db1dc494f9e3bcff\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:36:13-107
+272-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\c314898abc33d4b35fb0483e914cb28e\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:36:13-107
 273            android:visibleToInstantApps="true" />
-273-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\eed11671b689f412db1dc494f9e3bcff\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:37:13-48
+273-->[com.google.android.gms:play-services-auth:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\c314898abc33d4b35fb0483e914cb28e\transformed\jetified-play-services-auth-21.0.0\AndroidManifest.xml:37:13-48
 274
 275        <activity
-275-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Chick\.gradle\caches\transforms-4\c2e30f62f15d104899e3cd2f03dafac8\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+275-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Chick\.gradle\caches\transforms-4\c6a607eaf99c71589fb8c8f0668934c1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
 276            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-276-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Chick\.gradle\caches\transforms-4\c2e30f62f15d104899e3cd2f03dafac8\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+276-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Chick\.gradle\caches\transforms-4\c6a607eaf99c71589fb8c8f0668934c1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
 277            android:exported="false"
-277-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Chick\.gradle\caches\transforms-4\c2e30f62f15d104899e3cd2f03dafac8\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+277-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Chick\.gradle\caches\transforms-4\c6a607eaf99c71589fb8c8f0668934c1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
 278            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
-278-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Chick\.gradle\caches\transforms-4\c2e30f62f15d104899e3cd2f03dafac8\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+278-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Chick\.gradle\caches\transforms-4\c6a607eaf99c71589fb8c8f0668934c1\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
 279        <activity
-279-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:56:9-61:43
+279-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:56:9-61:43
 280            android:name="com.google.android.gms.ads.AdActivity"
-280-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:57:13-65
+280-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:57:13-65
 281            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-281-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:58:13-122
+281-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:58:13-122
 282            android:exported="false"
-282-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:59:13-37
+282-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:59:13-37
 283            android:theme="@android:style/Theme.Translucent" />
-283-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:60:13-61
+283-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:60:13-61
 284
 285        <provider
-285-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:63:9-68:43
+285-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:63:9-68:43
 286            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-286-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:64:13-76
+286-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:64:13-76
 287            android:authorities="com.mycompany.storyappplus.mobileadsinitprovider"
-287-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:65:13-73
+287-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:65:13-73
 288            android:exported="false"
-288-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:66:13-37
+288-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:66:13-37
 289            android:initOrder="100" />
-289-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:67:13-36
+289-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:67:13-36
 290
 291        <service
-291-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:70:9-74:43
+291-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:70:9-74:43
 292            android:name="com.google.android.gms.ads.AdService"
-292-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:71:13-64
+292-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:71:13-64
 293            android:enabled="true"
-293-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:72:13-35
+293-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:72:13-35
 294            android:exported="false" />
-294-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:73:13-37
+294-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:73:13-37
 295
 296        <activity
-296-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:76:9-80:43
+296-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:76:9-80:43
 297            android:name="com.google.android.gms.ads.OutOfContextTestingActivity"
-297-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:77:13-82
+297-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:77:13-82
 298            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-298-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:78:13-122
+298-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:78:13-122
 299            android:exported="false" />
-299-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:79:13-37
+299-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:79:13-37
 300        <activity
-300-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:81:9-88:43
+300-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:81:9-88:43
 301            android:name="com.google.android.gms.ads.NotificationHandlerActivity"
-301-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:82:13-82
+301-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:82:13-82
 302            android:excludeFromRecents="true"
-302-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:83:13-46
+302-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:83:13-46
 303            android:exported="false"
-303-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:84:13-37
+303-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:84:13-37
 304            android:launchMode="singleTask"
-304-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:85:13-44
+304-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:85:13-44
 305            android:taskAffinity=""
-305-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:86:13-36
+305-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:86:13-36
 306            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-306-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:87:13-72
+306-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:87:13-72
 307
 308        <property
-308-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:90:9-92:62
+308-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:90:9-92:62
 309            android:name="android.adservices.AD_SERVICES_CONFIG"
-309-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:91:13-65
+309-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:91:13-65
 310            android:resource="@xml/gma_ad_services_config" />
-310-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\e577249d2b2f53bee4f726a48ad9379e\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:92:13-59
+310-->[com.google.android.gms:play-services-ads-lite:23.0.0] C:\Users\Chick\.gradle\caches\transforms-4\9c9ad2f90b48ee40dcf93bfc4e762122\transformed\jetified-play-services-ads-lite-23.0.0\AndroidManifest.xml:92:13-59
 311
 312        <provider
-312-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\f31132796dd2f72b8f965f539b4757bf\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+312-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\5a982d76be0d0ff2c872379cd6db2185\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
 313            android:name="com.google.firebase.provider.FirebaseInitProvider"
-313-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\f31132796dd2f72b8f965f539b4757bf\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+313-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\5a982d76be0d0ff2c872379cd6db2185\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:24:13-77
 314            android:authorities="com.mycompany.storyappplus.firebaseinitprovider"
-314-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\f31132796dd2f72b8f965f539b4757bf\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+314-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\5a982d76be0d0ff2c872379cd6db2185\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:25:13-72
 315            android:directBootAware="true"
-315-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\f31132796dd2f72b8f965f539b4757bf\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+315-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\5a982d76be0d0ff2c872379cd6db2185\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:26:13-43
 316            android:exported="false"
-316-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\f31132796dd2f72b8f965f539b4757bf\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+316-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\5a982d76be0d0ff2c872379cd6db2185\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:27:13-37
 317            android:initOrder="100" />
-317-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\f31132796dd2f72b8f965f539b4757bf\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+317-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Chick\.gradle\caches\transforms-4\5a982d76be0d0ff2c872379cd6db2185\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:28:13-36
 318
 319        <uses-library
-319-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Chick\.gradle\caches\transforms-4\a08975d841649d3f6269ca6bac8a6b04\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+319-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Chick\.gradle\caches\transforms-4\2a6512cc5ed9275a17ce615b5eab2f8f\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
 320            android:name="android.ext.adservices"
-320-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Chick\.gradle\caches\transforms-4\a08975d841649d3f6269ca6bac8a6b04\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+320-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Chick\.gradle\caches\transforms-4\2a6512cc5ed9275a17ce615b5eab2f8f\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
 321            android:required="false" />
-321-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Chick\.gradle\caches\transforms-4\a08975d841649d3f6269ca6bac8a6b04\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+321-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Chick\.gradle\caches\transforms-4\2a6512cc5ed9275a17ce615b5eab2f8f\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
 322
 323        <provider
-323-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+323-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
 324            android:name="androidx.startup.InitializationProvider"
-324-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:32:13-67
+324-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:32:13-67
 325            android:authorities="com.mycompany.storyappplus.androidx-startup"
-325-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:33:13-68
+325-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:33:13-68
 326            android:exported="false" >
-326-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:34:13-37
+326-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:34:13-37
 327            <meta-data
-327-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
+327-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
 328                android:name="androidx.work.WorkManagerInitializer"
-328-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
+328-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
 329                android:value="androidx.startup" />
-329-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
+329-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
 330            <meta-data
-330-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\c89cf5911ffdaf04c5f643e4adba0190\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+330-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\309d47d94537cfd7bfbca858bcb9345b\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
 331                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-331-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\c89cf5911ffdaf04c5f643e4adba0190\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+331-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\309d47d94537cfd7bfbca858bcb9345b\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
 332                android:value="androidx.startup" />
-332-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\c89cf5911ffdaf04c5f643e4adba0190\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+332-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\309d47d94537cfd7bfbca858bcb9345b\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
 333            <meta-data
-333-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+333-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
 334                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-334-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+334-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
 335                android:value="androidx.startup" />
-335-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+335-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
 336        </provider>
 337
 338        <service
-338-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
+338-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
 339            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
-339-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
+339-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
 340            android:directBootAware="false"
-340-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
+340-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
 341            android:enabled="@bool/enable_system_alarm_service_default"
-341-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
+341-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
 342            android:exported="false" />
-342-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
+342-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
 343        <service
-343-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
+343-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
 344            android:name="androidx.work.impl.background.systemjob.SystemJobService"
-344-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
+344-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
 345            android:directBootAware="false"
-345-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
+345-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
 346            android:enabled="@bool/enable_system_job_service_default"
-346-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
+346-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
 347            android:exported="true"
-347-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
+347-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
 348            android:permission="android.permission.BIND_JOB_SERVICE" />
-348-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
+348-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
 349        <service
-349-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
+349-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
 350            android:name="androidx.work.impl.foreground.SystemForegroundService"
-350-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
+350-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
 351            android:directBootAware="false"
-351-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
+351-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
 352            android:enabled="@bool/enable_system_foreground_service_default"
-352-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
+352-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
 353            android:exported="false" />
-353-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
+353-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
 354
 355        <receiver
-355-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
+355-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
 356            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
-356-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
+356-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
 357            android:directBootAware="false"
-357-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
+357-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
 358            android:enabled="true"
-358-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
+358-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
 359            android:exported="false" />
-359-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
+359-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
 360        <receiver
-360-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
+360-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
 361            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
-361-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
+361-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
 362            android:directBootAware="false"
-362-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
+362-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
 363            android:enabled="false"
-363-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
+363-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
 364            android:exported="false" >
-364-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
+364-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
 365            <intent-filter>
-365-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
+365-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
 366                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
-366-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
-366-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
+366-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
+366-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
 367                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
-367-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
-367-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
+367-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
+367-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
 368            </intent-filter>
 369        </receiver>
 370        <receiver
-370-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
+370-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
 371            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
-371-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
+371-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
 372            android:directBootAware="false"
-372-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
+372-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
 373            android:enabled="false"
-373-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
+373-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
 374            android:exported="false" >
-374-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
+374-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
 375            <intent-filter>
-375-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
+375-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
 376                <action android:name="android.intent.action.BATTERY_OKAY" />
-376-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
-376-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
+376-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
+376-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
 377                <action android:name="android.intent.action.BATTERY_LOW" />
-377-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
-377-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
+377-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
+377-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
 378            </intent-filter>
 379        </receiver>
 380        <receiver
-380-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
+380-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
 381            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
-381-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
+381-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
 382            android:directBootAware="false"
-382-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
+382-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
 383            android:enabled="false"
-383-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
+383-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
 384            android:exported="false" >
-384-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
+384-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
 385            <intent-filter>
-385-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
+385-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
 386                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
-386-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
-386-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
+386-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
+386-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
 387                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
-387-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
-387-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
+387-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
+387-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
 388            </intent-filter>
 389        </receiver>
 390        <receiver
-390-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
+390-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
 391            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
-391-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
+391-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
 392            android:directBootAware="false"
-392-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
+392-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
 393            android:enabled="false"
-393-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
+393-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
 394            android:exported="false" >
-394-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
+394-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
 395            <intent-filter>
-395-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
+395-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
 396                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-396-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
-396-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
+396-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
+396-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
 397            </intent-filter>
 398        </receiver>
 399        <receiver
-399-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
+399-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
 400            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
-400-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
+400-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
 401            android:directBootAware="false"
-401-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
+401-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
 402            android:enabled="false"
-402-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
+402-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
 403            android:exported="false" >
-403-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
+403-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
 404            <intent-filter>
-404-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
+404-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
 405                <action android:name="android.intent.action.BOOT_COMPLETED" />
-405-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
-405-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
+405-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
+405-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
 406                <action android:name="android.intent.action.TIME_SET" />
-406-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
-406-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
+406-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
+406-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
 407                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
-407-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
-407-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
+407-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
+407-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
 408            </intent-filter>
 409        </receiver>
 410        <receiver
-410-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
+410-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
 411            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
-411-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
+411-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
 412            android:directBootAware="false"
-412-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
+412-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
 413            android:enabled="@bool/enable_system_alarm_service_default"
-413-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
+413-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
 414            android:exported="false" >
-414-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
+414-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
 415            <intent-filter>
-415-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
+415-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
 416                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
-416-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
-416-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
+416-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
+416-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
 417            </intent-filter>
 418        </receiver>
 419        <receiver
-419-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
+419-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
 420            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
-420-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
+420-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
 421            android:directBootAware="false"
-421-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
+421-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
 422            android:enabled="true"
-422-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
+422-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
 423            android:exported="true"
-423-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
+423-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
 424            android:permission="android.permission.DUMP" >
-424-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
+424-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
 425            <intent-filter>
-425-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
+425-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
 426                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
-426-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
-426-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\b28e27d959fa6a10b5875709a815dc7e\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
+426-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
+426-->[androidx.work:work-runtime:2.7.0] C:\Users\Chick\.gradle\caches\transforms-4\0af9f7cadf23dbc1be63c8781e441982\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
 427            </intent-filter>
 428        </receiver>
 429
 430        <meta-data
-430-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Chick\.gradle\caches\transforms-4\f16093d5dcc244726e8b35795089973c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+430-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Chick\.gradle\caches\transforms-4\04ea48c3e3a917e7aad58ab9978a7c36\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
 431            android:name="com.google.android.gms.version"
-431-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Chick\.gradle\caches\transforms-4\f16093d5dcc244726e8b35795089973c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+431-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Chick\.gradle\caches\transforms-4\04ea48c3e3a917e7aad58ab9978a7c36\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
 432            android:value="@integer/google_play_services_version" />
-432-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Chick\.gradle\caches\transforms-4\f16093d5dcc244726e8b35795089973c\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+432-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Chick\.gradle\caches\transforms-4\04ea48c3e3a917e7aad58ab9978a7c36\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
 433
 434        <receiver
-434-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+434-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
 435            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-435-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+435-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
 436            android:directBootAware="false"
-436-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+436-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
 437            android:enabled="true"
-437-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+437-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
 438            android:exported="true"
-438-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+438-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
 439            android:permission="android.permission.DUMP" >
-439-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+439-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
 440            <intent-filter>
-440-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+440-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
 441                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-441-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
-441-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+441-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+441-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
 442            </intent-filter>
 443            <intent-filter>
-443-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+443-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
 444                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-444-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
-444-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+444-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+444-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
 445            </intent-filter>
 446            <intent-filter>
-446-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+446-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
 447                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-447-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
-447-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+447-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+447-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
 448            </intent-filter>
 449            <intent-filter>
-449-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+449-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
 450                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-450-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
-450-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\d61207b36821e7a94050bcc5a4705600\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+450-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+450-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Chick\.gradle\caches\transforms-4\a9aaa7e967d210c7f37855e8cc4ba337\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
 451            </intent-filter>
 452        </receiver>
 453
 454        <service
-454-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\ae38e47d48bb0f6e83840449cf53923d\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+454-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\021d64b1260b4bb8c68c29a0bdf01943\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
 455            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-455-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\ae38e47d48bb0f6e83840449cf53923d\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+455-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\021d64b1260b4bb8c68c29a0bdf01943\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
 456            android:exported="false"
-456-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\ae38e47d48bb0f6e83840449cf53923d\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+456-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\021d64b1260b4bb8c68c29a0bdf01943\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
 457            android:permission="android.permission.BIND_JOB_SERVICE" >
-457-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\ae38e47d48bb0f6e83840449cf53923d\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+457-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\021d64b1260b4bb8c68c29a0bdf01943\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
 458        </service>
 459
 460        <receiver
-460-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\ae38e47d48bb0f6e83840449cf53923d\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+460-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\021d64b1260b4bb8c68c29a0bdf01943\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
 461            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-461-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\ae38e47d48bb0f6e83840449cf53923d\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
+461-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\021d64b1260b4bb8c68c29a0bdf01943\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
 462            android:exported="false" />
-462-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\ae38e47d48bb0f6e83840449cf53923d\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+462-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Chick\.gradle\caches\transforms-4\021d64b1260b4bb8c68c29a0bdf01943\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
 463
 464        <service
-464-->[androidx.room:room-runtime:2.2.5] C:\Users\Chick\.gradle\caches\transforms-4\2d244e6808e2f12d745f7bbba40f1349\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+464-->[androidx.room:room-runtime:2.2.5] C:\Users\Chick\.gradle\caches\transforms-4\127bd42f8c34dc7a5b951476e7b524d9\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
 465            android:name="androidx.room.MultiInstanceInvalidationService"
-465-->[androidx.room:room-runtime:2.2.5] C:\Users\Chick\.gradle\caches\transforms-4\2d244e6808e2f12d745f7bbba40f1349\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+465-->[androidx.room:room-runtime:2.2.5] C:\Users\Chick\.gradle\caches\transforms-4\127bd42f8c34dc7a5b951476e7b524d9\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
 466            android:directBootAware="true"
-466-->[androidx.room:room-runtime:2.2.5] C:\Users\Chick\.gradle\caches\transforms-4\2d244e6808e2f12d745f7bbba40f1349\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+466-->[androidx.room:room-runtime:2.2.5] C:\Users\Chick\.gradle\caches\transforms-4\127bd42f8c34dc7a5b951476e7b524d9\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
 467            android:exported="false" /> <!-- The activities will be merged into the manifest of the hosting app. -->
-467-->[androidx.room:room-runtime:2.2.5] C:\Users\Chick\.gradle\caches\transforms-4\2d244e6808e2f12d745f7bbba40f1349\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+467-->[androidx.room:room-runtime:2.2.5] C:\Users\Chick\.gradle\caches\transforms-4\127bd42f8c34dc7a5b951476e7b524d9\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
 468        <activity
-468-->[com.google.android.play:core-common:2.0.3] C:\Users\Chick\.gradle\caches\transforms-4\b6c84bd8009a6c10c94c3c574fa649ae\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:14:9-18:65
+468-->[com.google.android.play:core-common:2.0.3] C:\Users\Chick\.gradle\caches\transforms-4\37d03e1a521e668f32c7800ab6011708\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:14:9-18:65
 469            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
-469-->[com.google.android.play:core-common:2.0.3] C:\Users\Chick\.gradle\caches\transforms-4\b6c84bd8009a6c10c94c3c574fa649ae\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:15:13-93
+469-->[com.google.android.play:core-common:2.0.3] C:\Users\Chick\.gradle\caches\transforms-4\37d03e1a521e668f32c7800ab6011708\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:15:13-93
 470            android:exported="false"
-470-->[com.google.android.play:core-common:2.0.3] C:\Users\Chick\.gradle\caches\transforms-4\b6c84bd8009a6c10c94c3c574fa649ae\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:16:13-37
+470-->[com.google.android.play:core-common:2.0.3] C:\Users\Chick\.gradle\caches\transforms-4\37d03e1a521e668f32c7800ab6011708\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:16:13-37
 471            android:stateNotNeeded="true"
-471-->[com.google.android.play:core-common:2.0.3] C:\Users\Chick\.gradle\caches\transforms-4\b6c84bd8009a6c10c94c3c574fa649ae\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:17:13-42
+471-->[com.google.android.play:core-common:2.0.3] C:\Users\Chick\.gradle\caches\transforms-4\37d03e1a521e668f32c7800ab6011708\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:17:13-42
 472            android:theme="@style/Theme.PlayCore.Transparent" />
-472-->[com.google.android.play:core-common:2.0.3] C:\Users\Chick\.gradle\caches\transforms-4\b6c84bd8009a6c10c94c3c574fa649ae\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:18:13-62
+472-->[com.google.android.play:core-common:2.0.3] C:\Users\Chick\.gradle\caches\transforms-4\37d03e1a521e668f32c7800ab6011708\transformed\jetified-core-common-2.0.3\AndroidManifest.xml:18:13-62
 473    </application>
 474
 475</manifest>

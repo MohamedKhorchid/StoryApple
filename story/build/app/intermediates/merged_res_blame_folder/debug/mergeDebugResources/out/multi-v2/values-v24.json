@@ -4,7 +4,7 @@
             "outputFile": "com.mycompany.storyappplus.app-mergeDebugResources-45:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Chick\\.gradle\\caches\\transforms-4\\b5826ad1d777a0e278fa9ce715039650\\transformed\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Chick\\.gradle\\caches\\transforms-4\\b099b336f712b27d9d243db5a4a75d4e\\transformed\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

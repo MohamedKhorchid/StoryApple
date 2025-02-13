@@ -1,0 +1,2 @@
+C:/Users/Chick/OneDrive/Applications/Apple/StoryApple/story/android/app/.cxx/Debug/2x4l1v6v/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Chick/OneDrive/Applications/Apple/StoryApple/story/android/app/.cxx/Debug/2x4l1v6v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
